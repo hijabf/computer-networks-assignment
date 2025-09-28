@@ -1,0 +1,41 @@
+
+1. how to capture only http packets in wireshark?
+2. which filter i use for get request only?
+3. my capture is empty what i am doing wrong?
+4. how to find client hello in https trace?
+5. what is difference between server hello and certificate packet?
+6. can u explain persistent http connection simple words?
+7. is keep alive header means connection will never close?
+8. in wireshark how to expand tls extensions?
+9. which cipher suite is chosen by server in my trace?
+10. how to check certificate issuer?
+11. where validity dates are written in certificate?
+12. why we cannot see http headers in https capture?
+13. how to identify encrypted application data packet?
+14. how to check quic version in wireshark?
+15. what is dcid and scid in quic initial packet?
+16. which site supports quic for testing?
+17. how to capture http3 traffic?
+18. why quic runs on udp not tcp?
+19. in wireshark quic packets show as tlsv1.3 why?
+20. is client hello inside quic same as tls client hello?
+21. what is difference between 0-rtt and 1-rtt?
+22. how to identify first application data packet in quic?
+23. what filter i use to show only quic packets?
+24. why wireshark says decryption not possible sometimes?
+25. how to save pcapng with only filtered packets?
+26. what is alpn extension used for?
+27. does http3 always use quic?
+28. how to explain http vs https vs http3 in assignment?
+29. what is head of line blocking?
+30. why http3 is faster than http2?
+31. how to write results in word file with screenshots?
+32. should i include frame numbers in answers?
+33. how to add labels like figure 1 in assignment?
+34. how to make readme.md professional for github?
+35. how to organize traces in http/ https/ quic folders?
+36. how to explain encrypted application data in simple terms?
+37. can you help me draft explanation for tls handshake?
+38. what difference to mention between http over tcp and http3 over quic?
+39. is it ok if i use fonts.googleapis.com as test site?
+
